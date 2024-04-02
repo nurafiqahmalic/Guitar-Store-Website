@@ -2,6 +2,7 @@
 
 Welcome to Sound Exploration©, a project showcasing guitars and related accessories.
 
+Click this link to visit the website https://nurafiqahmalic.github.io/Guitar-Store-Website/ 
 ## Table of Contents
 
 - [About](#about)
